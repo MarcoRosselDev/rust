@@ -4,6 +4,7 @@ fn main() {
     println!("Guess the number!");
 
     println!("Please input your guess.");
+    println!("some changes to se wath is uploaded and wath not.");
 
     let mut guess = String::new();
 
